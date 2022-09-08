@@ -1,1 +1,1 @@
-Layout apenas com HTML e CSS.
+Layout utilizando apenas com HTML e CSS.
